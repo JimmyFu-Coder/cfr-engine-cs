@@ -14,10 +14,9 @@ This project is designed as a learning and experimentation framework for game-th
 - Basic unit tests with **xUnit**  
 - Ready-to-use CLI entry point for training and evaluation  
 
----
 
 ## Project Structure
-
+```
 cfr-engine-cs/
 ├─ Cfr.Engine/ # Core algorithm library
 │ ├─ Core/ # CFR engine, regret matching, node structures
@@ -31,7 +30,7 @@ cfr-engine-cs/
 │
 ├─ cfr-engine-cs.sln
 └─ README.md
-
+```
 
 ## Roadmap
 
